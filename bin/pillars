@@ -3,7 +3,7 @@
 var fs = require('fs');
 var path = require("path");
 var program = require('commander');
-var JSONPackage = require('./package.json');
+var JSONPackage = require('./../package.json');
 
 
 function copy(from, to, fn) {
