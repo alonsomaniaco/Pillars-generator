@@ -13,7 +13,7 @@ $ npm install -g pillars-generator
 ```sh
   $ pillars <Project name>
 ```
-- Then you need to enter on project and install dependencies:
+- Then you need to enter on project directory and install dependencies:
 ```sh
   $ cd <Project name> && npm install
 ```
