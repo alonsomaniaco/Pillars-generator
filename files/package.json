@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "private": false,
+  "main": "",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "devDependencies": {},
+  "licenses": [
+    {}
+  ],
+  "scripts": {
+    "start": "node www.js"
+  },
+  "dependencies": {
+    "jade": "^1.11.0",
+    "pillars": "^0.3.1"
+  }
+}

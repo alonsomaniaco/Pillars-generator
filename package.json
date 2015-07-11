@@ -1,0 +1,21 @@
+{
+  "name": "pillars-generator",
+  "private": false,
+  "main": "",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "devDependencies": {},
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "scripts": {
+    "start":"node app.js"
+  },
+  "dependencies": {
+    "commander": "^2.8.1"
+  }
+}
