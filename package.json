@@ -2,7 +2,7 @@
   "name": "pillars-generator",
   "private": false,
   "main": "bin/pillars",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "repository": {
     "url": "https://github.com/alonsomaniaco/Pillars-generator"
   },
