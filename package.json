@@ -2,7 +2,7 @@
   "name": "pillars-generator",
   "private": false,
   "main": "bin/pillars",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "url": "https://github.com/alonsomaniaco/Pillars-generator"
   },
@@ -13,14 +13,14 @@
     }
   ],
   "scripts": {
-    "start":"bin/pillars"
+    "start": "bin/pillars"
   },
   "dependencies": {
     "commander": "^2.8.1"
   },
   "preferGlobal": true,
   "bin": {
-    "pillars":"./bin/pillars"
+    "pillars": "./bin/pillars"
   },
   "files": [
     "LICENSE",
