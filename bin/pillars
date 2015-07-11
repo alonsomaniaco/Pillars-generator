@@ -24,7 +24,7 @@ function checkFinalJob() {
 	}
 }
 
-var templatePath = __dirname + "/files/";
+var templatePath = __dirname + "/../files/";
 
 program
 	.version(JSONPackage.version)
